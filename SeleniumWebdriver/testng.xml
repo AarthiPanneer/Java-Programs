@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+ <suite name="Suite1">
+    <test name="MyTest1">
+        <classes>
+            <class name="Idea.Idea123"/> 
+            <class name="Idea.SendEmailWithAttachment"/>
+       
+        </classes>
+    </test>
+    
+  </suite>
